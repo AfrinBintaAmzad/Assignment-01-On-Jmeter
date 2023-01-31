@@ -1,8 +1,7 @@
 # Random-User-API-Performance-Test
 
 # Technology Used
-- Postman 
-- Newman 
+- Jmeter
 - vs code
 
 ![1](https://user-images.githubusercontent.com/83439797/215824634-e8739387-8784-4298-b460-924b1ed1715a.PNG)
